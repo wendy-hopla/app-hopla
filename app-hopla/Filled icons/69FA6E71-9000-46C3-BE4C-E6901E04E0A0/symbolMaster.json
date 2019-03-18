@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6D721085-E359-4048-B5C1-E6215A401BD0",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 446,
+  "clippingMaskMode": 0,
+  "do_objectID": "69FA6E71-9000-46C3-BE4C-E6901E04E0A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89B8B6B2-803A-46E7-99B1-55B63EC12235",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF391147-619C-42AA-AF84-101E65E8DE50",
+    "height": 24,
+    "width": 24,
+    "x": 1227,
+    "y": 1045
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7370C6F2-BCF0-4563-A709-02E635A3C6A5"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BE7A426E-A69B-4C23-82E3-4E1A758E5344",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ECE86EE3-21A5-4E65-9512-9DF9771BF8EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E94C4ED6-8CD9-4C43-AC81-B1824D493032"
+    }
+  ],
+  "name": "icon/maps/subway_24px",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E94C4ED6-8CD9-4C43-AC81-B1824D493032_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "936B6511-3DFE-4E05-804C-A7847DB65AB6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3860E9F0-911D-4531-A4D3-B8AE2ECE36FF",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/maps/subway_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A9CC6C39-7A25-43A2-BE6F-273431E7EB0C",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "832AB4C1-D5DD-4155-83AD-97AFD8EE746C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9DB9C9AC-1C03-44B2-A945-6ED22E46D8B1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA236332-E609-42DA-B9E3-48BF1D27B025",
+    "height": 18,
+    "width": 22,
+    "x": 1,
+    "y": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D1B1880C-2FE1-4F00-9979-2A4211B8EE5F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E13E8D1C-D693-4B4F-A4FB-9BBB40843320"
+    },
+    {
+      "class": "shapePath",
+      "id": "269885BD-9736-4A48-936F-0DA86EEFFA87"
+    },
+    {
+      "class": "shapePath",
+      "id": "36583EDE-D7A0-48FC-B6FE-DA4ADC8C6FF4"
+    }
+  ],
+  "name": "icon/communication/present_to_all_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94CB1AE6-0FFC-4AE1-BA30-68D16B83B594",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

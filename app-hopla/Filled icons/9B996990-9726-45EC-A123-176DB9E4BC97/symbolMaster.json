@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A89D9D0B-75A5-4027-A5B3-D82E6F0E880F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1006,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B996990-9726-45EC-A123-176DB9E4BC97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9439A788-2350-46CB-B01E-BB4D8E1CFDED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF0612B1-F294-4420-90DC-37A59CE62416",
+    "height": 24,
+    "width": 24,
+    "x": 113,
+    "y": 277
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D7BBA4DE-DEFE-46A8-B025-9B9DDDA37603"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4E7F4BCE-80E9-4531-B69D-ABE99526DA76",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F3C305E7-F2AA-45B7-8702-0ACACB5F2BC6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C943D54F-F140-471F-BEF6-A5FE426A513D"
+    }
+  ],
+  "name": "icon/device/bluetooth_24px",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C943D54F-F140-471F-BEF6-A5FE426A513D_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E558369-464D-4C6A-91DA-932FAFFABFD2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "17EC600E-85EC-497E-A3F6-49311A3CEE8B",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/device/bluetooth_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8166DF20-8350-41AF-9064-9B8A9ADB9B98",
+    "guides": [
+    ]
+  }
+}

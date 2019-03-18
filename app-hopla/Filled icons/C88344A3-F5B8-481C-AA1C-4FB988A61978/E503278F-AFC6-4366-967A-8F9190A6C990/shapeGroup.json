@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E503278F-AFC6-4366-967A-8F9190A6C990",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C9AF099-833B-402C-B827-25F3C7BF3D72",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B41BBC2-3BB3-4551-A742-8583155ACF4E",
+    "height": 18.14,
+    "width": 24,
+    "x": 0,
+    "y": 3.8599999999999
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A77F4F9F-8F47-4EE0-B8CB-209145A7684B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9DDAD97E-E739-4C69-A0B5-608D51488484"
+    },
+    {
+      "class": "shapePath",
+      "id": "2498EF57-2C8F-4EDB-BCD8-8FDA738D0F3D"
+    },
+    {
+      "class": "shapePath",
+      "id": "E2DD3C22-4D9E-4428-BAE2-10DCDAD5EB01"
+    }
+  ],
+  "name": "icon/file/cloud_off_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6DBBA60-CE64-4FE0-9016-B0D97AE4088E",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

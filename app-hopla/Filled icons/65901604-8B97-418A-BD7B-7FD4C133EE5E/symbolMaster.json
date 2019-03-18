@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A8AAF7DB-B60E-43DC-A82B-2A238FFC2028",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 469,
+  "clippingMaskMode": 0,
+  "do_objectID": "65901604-8B97-418A-BD7B-7FD4C133EE5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "813C1D4D-ECA4-438E-8789-CA82C96C4A73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "697DA829-CB61-4B58-93E2-7CDBED58FF65",
+    "height": 24,
+    "width": 24,
+    "x": 1227,
+    "y": 853
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "213271C1-7739-49A1-B01C-C3254524F0CB"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C7E5716C-78F6-43DA-833B-3636BB917E68",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D13DBA67-F294-485D-B67E-6913E91F7E9B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "232AE259-2B17-442C-9E57-DB9145872AB1"
+    }
+  ],
+  "name": "icon/maps/local_car_wash_24px",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "232AE259-2B17-442C-9E57-DB9145872AB1_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88A7BE22-6179-468D-973C-1B309E568CAD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8F971AEF-02C1-41EA-BEA9-5B778812C15D",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/maps/local_car_wash_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F2127D3B-59C9-4D42-B174-D9F47E5157F2",
+    "guides": [
+    ]
+  }
+}

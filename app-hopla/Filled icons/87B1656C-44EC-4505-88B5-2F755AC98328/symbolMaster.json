@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "980C09AB-399D-4ACA-8CE9-32CE9B7771FE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 413,
+  "clippingMaskMode": 0,
+  "do_objectID": "87B1656C-44EC-4505-88B5-2F755AC98328",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9628CA41-E87E-46EA-8F25-84A9F27D8D2C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ACC7E6E2-C1DE-44FE-84F2-699615494AF5",
+    "height": 24,
+    "width": 24,
+    "x": 1467,
+    "y": 709
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DD65CB08-2D8F-44D4-A1BA-9843ABA78B26"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3BE90FA5-5067-478B-9B3A-D5F2CA65D948",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AC09530D-BA5A-4E3D-9CB8-46FD37042256"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE5FE04F-9DE9-417D-BFAC-5B428CD78DC8"
+    }
+  ],
+  "name": "icon/maps/compass_calibration_24px",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BE5FE04F-9DE9-417D-BFAC-5B428CD78DC8_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E970F509-1BD5-4295-A542-D1DBA917F548",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8C538C2F-E067-4C5C-AC90-C30B687128C2",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/maps/compass_calibration_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DA201ED0-2A0D-4A31-99BE-7634A76C1185",
+    "guides": [
+    ]
+  }
+}

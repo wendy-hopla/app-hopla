@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9CCC8E20-75F4-486C-B774-A77190356B98",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 358,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE60B359-CC1E-4F51-BCAC-F3D356A85D51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C46B7FB2-04FA-4EE3-A3E2-DD37ABD06C65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0DED5446-06C3-4DF0-9AB1-F75243A04348",
+    "height": 24,
+    "width": 24,
+    "x": 1880,
+    "y": 517
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7326CABD-976A-49A6-8FE9-E50132577D1F"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D23CDB6D-F8EE-4E04-BEBE-0B861F89D612",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "42E17401-92AC-4D00-90D9-57D2708781B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D5E5FD6-F2E3-4D23-B24E-9195F34BEA5B"
+    }
+  ],
+  "name": "icon/places/airport_shuttle_24px",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3D5E5FD6-F2E3-4D23-B24E-9195F34BEA5B_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C96903E5-7CAD-4E2D-A782-4DD99EA79B08",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "82198B9D-6B6C-4CBC-B4C0-A3B9E4BABAA9",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/places/airport_shuttle_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "331BD431-04AA-4A6A-ABB6-60FD7F1EC4CF",
+    "guides": [
+    ]
+  }
+}

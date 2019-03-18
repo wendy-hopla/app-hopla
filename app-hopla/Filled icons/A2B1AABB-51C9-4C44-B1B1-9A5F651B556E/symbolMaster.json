@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4B79794B-F625-41A4-9380-9D5F3EAA25DF",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 328,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2B1AABB-51C9-4C44-B1B1-9A5F651B556E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3ADAADA-E873-4616-B805-112A9AE60498",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F2CAD7D-9EF0-4B5B-8C42-CFAC9C104F8B",
+    "height": 24,
+    "width": 24,
+    "x": 766,
+    "y": 565
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "191920A9-61DF-4913-9CFC-4F6B9AA4E077"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1942192D-7D41-4D76-A9A4-E540AE67286C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "25FE6A0C-DD2C-4733-B993-6706BB9B214E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C5493E3-E4EA-4610-A501-68D5F707A85E"
+    }
+  ],
+  "name": "icon/hardware/headset_mic_24px",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7C5493E3-E4EA-4610-A501-68D5F707A85E_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "066F5BC8-A675-4E3A-9346-E49E2FDCA618",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "090A1599-2CFD-4BB6-82A3-5467AFC532CD",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/hardware/headset_mic_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "28F1000A-DC1A-4CB6-92E1-67657E1390E7",
+    "guides": [
+    ]
+  }
+}

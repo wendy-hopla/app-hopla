@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D5CC71F7-72F9-4E29-9EBE-F32967FFFD28",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 396,
+  "clippingMaskMode": 0,
+  "do_objectID": "D26E38C6-7F9F-4953-B6F8-8EE80F2A8D9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F73B9F3D-A2EF-483C-A22F-892EFECB3A80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "97836D32-7A9F-414F-9D24-52AC4461F379",
+    "height": 24,
+    "width": 24,
+    "x": 1928,
+    "y": 133
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E197D6EF-FD8D-4325-BE3A-A622D0182E03"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B9E8F68D-4E1D-40A8-B161-54F3593BA5CB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "91E1E350-57CF-4CD3-94BF-1BD3A961F14A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80D97F43-1859-4258-9F27-92351C3846F8"
+    }
+  ],
+  "name": "icon/notification/airline_seat_flat_angled_24px",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "80D97F43-1859-4258-9F27-92351C3846F8_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97AC0198-E776-4067-AED3-7B15DEE88BF4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0A259A05-EB60-49A8-8B5F-93D28E17FBFC",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/notification/airline_seat_flat_angled_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D44C17D5-A2CC-4728-9B2E-F671483B00AB",
+    "guides": [
+    ]
+  }
+}

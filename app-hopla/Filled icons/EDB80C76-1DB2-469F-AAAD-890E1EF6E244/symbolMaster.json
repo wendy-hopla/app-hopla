@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "144AFFC1-078B-4B67-8444-1A4F30FB8608",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 373,
+  "clippingMaskMode": 0,
+  "do_objectID": "EDB80C76-1DB2-469F-AAAD-890E1EF6E244",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6AE5B04-575A-4C03-8201-DDBCDC344115",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0C457D79-5D14-4F65-B20A-E86CB5F0BBBA",
+    "height": 24,
+    "width": 24,
+    "x": 1832,
+    "y": 565
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0FAB63BD-0061-4F88-8E0B-BAB16A476456"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3356D685-492A-44FF-B79E-D308448353B6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "79B25123-5C29-419B-8174-4B7B96834DC7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "12574CF7-74E1-489A-B0ED-CEAAFFE23B57"
+    }
+  ],
+  "name": "icon/places/golf_course_24px",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "12574CF7-74E1-489A-B0ED-CEAAFFE23B57_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6034FA28-722D-4F6C-A894-CB53DACE514B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "87BDC6B7-F712-4DDF-A20C-0DD509F4EDC5",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/places/golf_course_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "73B9F56E-F6BE-40A8-9F00-4AEE0C3F0D1C",
+    "guides": [
+    ]
+  }
+}

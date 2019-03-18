@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A77C5FB6-F63A-490F-BDFC-9A4AF323A486",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF83C3D9-DEDD-4956-B768-A69E84D2DD76",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "187DA7F1-EFB6-453F-A0A6-FF837D023820",
+    "height": 17,
+    "width": 24,
+    "x": 0,
+    "y": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E530FD75-1A74-49ED-AC32-894FF11182F2"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E3850AA5-75FD-48B5-ACE0-FB2709758A7A"
+    },
+    {
+      "class": "shapePath",
+      "id": "5D1CC76F-83EB-4E55-8467-E9A12721D131"
+    },
+    {
+      "class": "shapePath",
+      "id": "82458F0B-919C-4919-A91F-CC499CF66378"
+    }
+  ],
+  "name": "icon/hardware/laptop_chromebook_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "98051C72-5A28-4D09-A1D7-B1A15F0501A2",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,108 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "977F9E37-3A1D-4D07-8AD2-CE759C2750A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "880B65DE-C05E-4C32-9DEB-3FEE9015CC65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B9B82F05-F69F-4040-A123-4B3F4E7D7E7B",
+    "height": 22,
+    "width": 18,
+    "x": 3,
+    "y": 1
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "014A0765-C11E-4EC5-A946-C924B83D5AF1"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "13EB7B15-5A8E-4C2B-90A8-77C081978B6F"
+    },
+    {
+      "class": "shapePath",
+      "id": "F44BF635-323A-465E-BDC6-41B22C4C993C"
+    },
+    {
+      "class": "shapePath",
+      "id": "27995348-22D1-49E6-B59D-3CBDB7D75869"
+    },
+    {
+      "class": "shapePath",
+      "id": "BC6595EA-BAC7-42D4-BBD5-99E32F3326FD"
+    },
+    {
+      "class": "shapePath",
+      "id": "DB606898-E6AE-4D1E-89A2-EB924110F95C"
+    },
+    {
+      "class": "shapePath",
+      "id": "BF48B27B-3960-4F8E-8F6C-B2E997EEE913"
+    },
+    {
+      "class": "shapePath",
+      "id": "01783870-F1C7-4E5F-984B-990A56BD46A2"
+    },
+    {
+      "class": "shapePath",
+      "id": "CE12ECE9-E655-4C8C-AF76-84968DF0E81F"
+    },
+    {
+      "class": "shapePath",
+      "id": "786621F4-F90C-4478-80A2-9414FEE3C3E8"
+    }
+  ],
+  "name": "icon/image/flip_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CCAD0248-BEAE-40B2-9675-62239D824AED",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

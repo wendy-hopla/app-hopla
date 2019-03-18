@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "857A0F7B-A9F1-4ECD-91BC-CC1FEE99AF24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02A8DC3F-7F36-4A4D-BA0F-8B13115B21C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B96DC320-0C27-47BB-89B7-6B3FEEA2739E",
+    "height": 8,
+    "width": 32,
+    "x": 136,
+    "y": 288
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6ECC591D-1C43-45CF-8178-ECAF53184C46"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D75AA0E-C042-4487-8E3E-D3684A0F5780"
+    }
+  ],
+  "name": "Arrow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55D59192-8599-4258-B6CC-534AF3549B2A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

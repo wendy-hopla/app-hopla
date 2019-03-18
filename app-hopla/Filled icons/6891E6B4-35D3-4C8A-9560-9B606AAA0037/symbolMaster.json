@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4CAC37AA-17C5-4D73-A9FE-118601C08B60",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 418,
+  "clippingMaskMode": 0,
+  "do_objectID": "6891E6B4-35D3-4C8A-9560-9B606AAA0037",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4C2A1E7-A4A3-4716-9112-49AC38077090",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8865717F-A28A-492B-AC84-2E272B1A9150",
+    "height": 24,
+    "width": 24,
+    "x": 1515,
+    "y": 997
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9A303EC8-BA1F-47E8-8F81-267005B1F00B"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E86C963D-7DE5-4174-A967-889154725242",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "222F5DC2-328A-4AB0-95A8-60CACEB12857"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4854719E-C3B4-4C0C-9617-2160703E09C1"
+    }
+  ],
+  "name": "icon/maps/restaurant_menu_24px",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4854719E-C3B4-4C0C-9617-2160703E09C1_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D76EA7C-0BA6-4D28-9357-F18D731A3473",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "15ABB561-DF6B-43CF-BAFD-AE5A13B7126C",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/maps/restaurant_menu_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "28202E52-5FEB-489F-8963-DE9A7000AA7F",
+    "guides": [
+    ]
+  }
+}

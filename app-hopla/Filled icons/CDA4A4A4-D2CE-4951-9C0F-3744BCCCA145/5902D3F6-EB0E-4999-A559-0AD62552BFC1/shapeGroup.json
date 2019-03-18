@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5902D3F6-EB0E-4999-A559-0AD62552BFC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A556C079-1DB2-4246-A37A-BDD31514F88D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF0BA5E9-EAD4-4F5A-8455-3B696965FBCE",
+    "height": 21,
+    "width": 22,
+    "x": 1,
+    "y": 1
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6B782B88-2EA6-454B-B47F-492086A2E6DD"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D34A4E97-E15A-4C6A-A9DC-0B4C12767108"
+    },
+    {
+      "class": "shapePath",
+      "id": "3614694A-0180-4136-AF5A-76E179869F69"
+    },
+    {
+      "class": "shapePath",
+      "id": "3244CCFC-E170-41DB-8E91-D4FC9226EE0D"
+    }
+  ],
+  "name": "icon/notification/network_locked_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "433F6E4D-FC4C-4139-A546-4CBBFD05C2D8",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

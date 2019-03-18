@@ -1,0 +1,88 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2D9D8FBB-0FD7-4E30-89B5-381EBB689225",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BACCD46-F55F-41A0-A174-EF507E87275D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB2E1D7A-6BCB-40EE-89C1-EC399856218A",
+    "height": 20,
+    "width": 20,
+    "x": 2,
+    "y": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0A7231A6-76BF-4019-8FE3-FE4382120212"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C46A4EC1-4EDE-4CA3-993D-003FF2B2A59F"
+    },
+    {
+      "class": "shapePath",
+      "id": "76103468-53EB-4D78-B42B-107DD3CD014A"
+    },
+    {
+      "class": "shapePath",
+      "id": "B2D40BCC-B38C-48BE-B56B-A2FC5F89329C"
+    },
+    {
+      "class": "shapePath",
+      "id": "B19F696F-0F9D-4515-BB9A-CAA763BF9C2A"
+    }
+  ],
+  "name": "icon/av/games_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D95C81D4-F72A-4D65-8E9F-E8A950E62179",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

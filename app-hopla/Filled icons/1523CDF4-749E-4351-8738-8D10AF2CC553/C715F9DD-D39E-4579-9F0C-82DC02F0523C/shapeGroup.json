@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C715F9DD-D39E-4579-9F0C-82DC02F0523C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B94A86A8-F15B-402F-BA50-E3909D1F33BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C10EFC5-44A6-482D-979C-5A93D2AF220D",
+    "height": 24,
+    "width": 18,
+    "x": 3,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CD4426A0-4558-41D7-8CE0-DF526FF7E6B8"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "80648C2A-C878-49E3-A60D-8D5E82CD6960"
+    },
+    {
+      "class": "shapePath",
+      "id": "55CF0504-672B-4DA1-8626-4E7FE5615B58"
+    },
+    {
+      "class": "shapePath",
+      "id": "A485FE03-620D-4E1F-A9C9-48F6FFAA70B7"
+    }
+  ],
+  "name": "icon/hardware/tablet_android_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E26A19E2-7DD0-4B73-953D-7E59951CEBD0",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

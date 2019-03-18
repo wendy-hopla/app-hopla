@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "445EE7F8-4F68-4EC6-AB1A-E145FD89EB52",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 431,
+  "clippingMaskMode": 0,
+  "do_objectID": "64996FF0-59BF-452F-9936-3337BE793CB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D29BB619-493E-472A-936A-C1D0B6D47807",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7EFB9818-88E9-4ECF-A776-1AC86D3ED08F",
+    "height": 24,
+    "width": 24,
+    "x": 1880,
+    "y": 565
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BE52CA5A-38B6-4393-892B-A08F07656B18"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7118B769-4ADD-4B87-9696-33FB97B1A45B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7B9EAAE4-9BF8-453B-8C20-34D746E36477"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C7E8A40-4176-4A0F-8D16-D24D7F53E768"
+    }
+  ],
+  "name": "icon/places/hot_tub_24px",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8C7E8A40-4176-4A0F-8D16-D24D7F53E768_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F5A32DD-EF66-477D-83FB-F130F90AA002",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0B622514-388C-43DE-86A9-CFC121AE5BB4",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/places/hot_tub_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "03A4D36C-D426-4460-8159-4EE28C6D2972",
+    "guides": [
+    ]
+  }
+}

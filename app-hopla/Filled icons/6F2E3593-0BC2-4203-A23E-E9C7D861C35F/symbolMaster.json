@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CCE89B76-966F-4CE6-B971-F7282A65A36C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 398,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F2E3593-0BC2-4203-A23E-E9C7D861C35F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47A0AB06-989D-4444-9EE8-6D5E25700340",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4BA9141-1736-435F-A0B3-8DAE1AFEC4EC",
+    "height": 24,
+    "width": 24,
+    "x": 2216,
+    "y": 229
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "60FEA91B-68F8-41A0-8B03-07370B454B8C"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "47DF0090-EE2A-4EA1-94C6-82691FB2D6FC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A6FB86C5-4E1A-4CB5-BD12-112FAA8A1D36"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C15C4ACF-B8F5-41D0-BCC8-7617902DAF81"
+    }
+  ],
+  "name": "icon/notification/no_encryption_gmailerrorred_24px",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C15C4ACF-B8F5-41D0-BCC8-7617902DAF81_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32CE907B-46F6-4C9F-9751-5059EDCAC95C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CE62C11-B8A6-467F-84CB-6F7CF984DFB0",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/notification/no_encryption_gmailerrorred_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D94BF8D1-D95A-4739-BE9D-E11898E311E0",
+    "guides": [
+    ]
+  }
+}

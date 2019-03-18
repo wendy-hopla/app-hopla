@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D1CF785-79B1-47E8-B873-E1F7A7F96CD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA2D1B8D-C19A-45EA-A3C0-A5A36761FFF9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C056D91-B7C3-421D-AF5F-789D76B5C5A0",
+    "height": 19.16666666666667,
+    "width": 23.22461538461538,
+    "x": 0.3876923076923084,
+    "y": 2.416666666666666
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "27B9F550-DA8D-49BD-9430-1FBC27C7D342"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FE5A01A9-01A3-4C1D-8805-6AD46916AF99"
+    },
+    {
+      "class": "shapePath",
+      "id": "7273D3CA-D65F-45AF-89D1-DA41112F3C1A"
+    }
+  ],
+  "name": "icon/device/signal_wifi_statusbar_null_26x24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53CA95C9-D68C-4BDA-A4AE-6C459FEA97E7",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

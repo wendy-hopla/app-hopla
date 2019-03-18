@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5807EB12-B42C-4DB0-9254-B100FB1E2C18",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 422,
+  "clippingMaskMode": 0,
+  "do_objectID": "0F00ECE6-6F8B-4B4F-AEBF-3B443D3D0F7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD4B8BFA-9C38-4F68-A2FB-2C7222EF99D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0C26BF52-0E7F-43EA-B0CC-C921C81004D5",
+    "height": 24,
+    "width": 24,
+    "x": -348,
+    "y": 85
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3E7BCC58-12CE-4F8A-A1FF-4C0033C1690F"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9B74D6F5-99D1-4D32-B10B-FE63BB313A7A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BF18793A-0CB7-4424-A0C9-7A24F1CBA0A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D83F70A-627B-4FEF-854F-1C4B8DFFD93F"
+    }
+  ],
+  "name": "icon/av/hearing_24px",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7D83F70A-627B-4FEF-854F-1C4B8DFFD93F_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74261DD6-A34D-4645-996D-812E4D4F2618",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "73F61D9F-8972-4482-B158-C79F1176B303",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/av/hearing_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4A37B7EB-C08E-433B-8857-14547370D96B",
+    "guides": [
+    ]
+  }
+}

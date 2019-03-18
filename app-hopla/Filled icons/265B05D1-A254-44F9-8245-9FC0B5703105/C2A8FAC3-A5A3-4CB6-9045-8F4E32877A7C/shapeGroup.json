@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2A8FAC3-A5A3-4CB6-9045-8F4E32877A7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8CAE7A92-841E-4BD8-A538-B1076D86DA22",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "389D1975-844F-404C-B603-3AD8916FA376",
+    "height": 21.41,
+    "width": 22,
+    "x": 1,
+    "y": 1
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "44C9DA77-1F6F-4A73-9575-C852F5D808FB"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C83C84F5-26D2-4EF7-ACA4-514975DB9282"
+    },
+    {
+      "class": "shapePath",
+      "id": "BA2C78AF-C784-4564-AB58-ECC0123FFBE7"
+    },
+    {
+      "class": "shapePath",
+      "id": "438AB61E-08C6-43C0-B830-DD4B86EE1251"
+    }
+  ],
+  "name": "icon/action/settings_input_antenna_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "805401BC-F19B-4071-B9A4-40D8657A4940",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

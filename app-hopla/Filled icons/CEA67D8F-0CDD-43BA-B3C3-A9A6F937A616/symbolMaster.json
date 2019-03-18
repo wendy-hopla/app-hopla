@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "ECFB85A4-5ED0-47F0-B72A-6EFC95B164BA",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1199,
+  "clippingMaskMode": 0,
+  "do_objectID": "CEA67D8F-0CDD-43BA-B3C3-A9A6F937A616",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93F35C99-E620-4E6C-BB73-668A0627EAE7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CD8365A-4EF3-48CF-8F22-C69D2CBD1689",
+    "height": 24,
+    "width": 24,
+    "x": 66,
+    "y": 469
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B00AFD01-2C6D-4719-A1DD-DE89030604CD"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "69EB7F69-62D3-4114-BEEE-646EFB0C59DE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "80AD0488-5833-4A44-BCB5-8FE044FDB3B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "818E9C4E-5E02-4CEA-A99E-B646673C43EB"
+    }
+  ],
+  "name": "icon/device/thermostat_24px",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "818E9C4E-5E02-4CEA-A99E-B646673C43EB_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F89DF45-7CBA-4491-85DA-910659E8F01D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C98F8DCA-9543-432D-9C68-A73246090B29",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/device/thermostat_24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F4CBB319-F030-457D-9DB6-1EBDA8B94450",
+    "guides": [
+    ]
+  }
+}

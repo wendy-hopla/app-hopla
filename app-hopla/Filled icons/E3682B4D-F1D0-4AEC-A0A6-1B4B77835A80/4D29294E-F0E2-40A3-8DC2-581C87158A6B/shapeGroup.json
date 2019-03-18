@@ -1,0 +1,120 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D29294E-F0E2-40A3-8DC2-581C87158A6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09876375-B879-4166-9856-068A8BCCBC40",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8547C25D-2EE0-4716-9447-6E42B571041C",
+    "height": 14,
+    "width": 20,
+    "x": 2,
+    "y": 5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D10A5D5A-A6D2-4661-87D0-DC3DBDE2032C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FD1C0F3C-7199-42ED-89ED-67C2B71180F8"
+    },
+    {
+      "class": "shapePath",
+      "id": "B240DB59-B89F-476C-81E3-CA600986C439"
+    },
+    {
+      "class": "shapePath",
+      "id": "21E5A7BE-6181-4434-A11C-7627445BB35C"
+    },
+    {
+      "class": "shapePath",
+      "id": "7208FBE3-C663-49A4-BA91-91106610DF08"
+    },
+    {
+      "class": "shapePath",
+      "id": "E655E48D-CC2D-45D6-A8BF-8AB1729AC83E"
+    },
+    {
+      "class": "shapePath",
+      "id": "687FD02D-4BAC-4B44-BCD5-25B803F1B37C"
+    },
+    {
+      "class": "shapePath",
+      "id": "97E15824-C946-4ACE-9908-B41E7E19B86B"
+    },
+    {
+      "class": "shapePath",
+      "id": "C63B2DC5-9DCB-4B16-A684-2E09EEB79F16"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE31CB81-2CCC-41F8-BE1B-C01325B960F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "2A411C63-2CBF-47A0-A2C7-6694BF9307D8"
+    },
+    {
+      "class": "shapePath",
+      "id": "F08D8BB8-A274-44A6-9401-5F5DA509EE69"
+    },
+    {
+      "class": "shapePath",
+      "id": "051F9C38-EF5A-48F5-AE12-A591E1EAF611"
+    }
+  ],
+  "name": "icon/hardware/keyboard_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5474F683-24DC-4504-BF16-0A7948782BCC",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

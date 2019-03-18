@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "67337A75-B0C5-444E-8EDE-605F4AC45A15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "74754C53-8DA0-48DB-8EBF-9CD0B6C90472",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "924EABC6-DC4C-467D-ACCD-198EB0B2422C",
+    "height": 20,
+    "width": 20.00742773927582,
+    "x": 1,
+    "y": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "12AECACA-C9DF-43EC-B514-4355EC0299ED"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8B60936A-814A-4CD2-B470-5A64D8EA1BB7"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E8AD455-A504-4925-B909-71D27B0FA7EC"
+    },
+    {
+      "class": "shapePath",
+      "id": "95DFE306-A9D8-4660-90C9-8E509C75BEE4"
+    }
+  ],
+  "name": "icon/maps/local_grocery_store_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E1E590D-28C4-418F-800E-5EFB7C59B6E5",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

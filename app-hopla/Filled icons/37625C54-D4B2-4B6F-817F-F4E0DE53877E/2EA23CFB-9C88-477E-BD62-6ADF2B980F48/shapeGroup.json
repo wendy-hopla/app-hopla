@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2EA23CFB-9C88-477E-BD62-6ADF2B980F48",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1DF4B1B1-C14D-4C92-B219-4A8003265505",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D7A3D97-C875-4B33-B120-ECE153BE4300",
+    "height": 20.19,
+    "width": 23.27999999999999,
+    "x": 0.3600000000000136,
+    "y": 1.309999999999945
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "28859C70-81A3-4A79-B55E-B1B75459DC1F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8EA836FD-F9C6-488C-BEA1-9BEA82081A3C"
+    },
+    {
+      "class": "shapePath",
+      "id": "8C2EFF3B-54EA-483D-8108-042EE2E0C17E"
+    }
+  ],
+  "name": "icon/device/signal_wifi_off_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B918EBC-9BA0-439F-A8B7-CAF63821D804",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

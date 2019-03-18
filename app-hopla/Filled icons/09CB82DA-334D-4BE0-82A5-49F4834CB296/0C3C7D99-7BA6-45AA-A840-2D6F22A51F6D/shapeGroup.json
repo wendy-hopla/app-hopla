@@ -1,0 +1,92 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C3C7D99-7BA6-45AA-A840-2D6F22A51F6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51E52D54-C776-4F7E-B025-E94699A202BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7602602A-AF0F-40EA-9365-E663BF08A153",
+    "height": 18,
+    "width": 18,
+    "x": 3,
+    "y": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1CBE7B19-D6CF-40F7-8837-0F0E527E08D1"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AD4CCBA4-1426-4BA3-A307-3ECEBA60079F"
+    },
+    {
+      "class": "shapePath",
+      "id": "841D5E22-5928-4A9A-9199-ECF10FDD3F31"
+    },
+    {
+      "class": "shapePath",
+      "id": "73EA36F9-A090-4CA4-8702-8F89EAD57D4C"
+    },
+    {
+      "class": "shapePath",
+      "id": "5281FB9B-FC14-4A61-BBAB-F62288883974"
+    },
+    {
+      "class": "shapePath",
+      "id": "C1AEB7F7-2D22-4ECC-B142-807FA6BDBDD9"
+    }
+  ],
+  "name": "icon/communication/dialer_sip_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC668B23-E491-4DF4-B4D7-EAACDA302FE4",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

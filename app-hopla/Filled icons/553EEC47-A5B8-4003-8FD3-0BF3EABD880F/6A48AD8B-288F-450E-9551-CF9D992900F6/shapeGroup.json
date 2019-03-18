@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A48AD8B-288F-450E-9551-CF9D992900F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CB47473-E7FC-4C45-BC53-4CCD6BD87C37",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F980A7B3-D218-4D18-A1F3-4161DE3C65E4",
+    "height": 22,
+    "width": 14,
+    "x": 5,
+    "y": 1
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8B24D1CC-E38B-4407-85CC-DA0D2A6699BC"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "55968339-E910-479C-ADC5-E8E326C968AB"
+    },
+    {
+      "class": "shapePath",
+      "id": "B3ED5A16-D430-4846-9772-3BBA87BF7F5F"
+    },
+    {
+      "class": "shapePath",
+      "id": "EAB6B441-BA61-4139-98AE-6BF959187094"
+    }
+  ],
+  "name": "icon/hardware/phone_android_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D375332-3691-4B21-81CB-595B092CEEB0",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

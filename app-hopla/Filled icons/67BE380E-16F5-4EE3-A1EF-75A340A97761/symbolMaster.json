@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DBD28400-DFDA-4AB8-8F18-4AFDB09046EB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 993,
+  "clippingMaskMode": 0,
+  "do_objectID": "67BE380E-16F5-4EE3-A1EF-75A340A97761",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D831C5B3-02D9-4632-B39A-97872FA189F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4C314FE-B43A-4BA9-8F5B-AC4ECC0DBD81",
+    "height": 24,
+    "width": 24,
+    "x": 402,
+    "y": 421
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "211309BC-1ACB-4CF0-8C77-E864D65DD66B"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "49552424-FE82-479D-B9E2-F16D35547A3F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "370E7493-080F-42CE-8979-6C8D2BF35C83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8654F8B-E902-4D11-BF21-55DC7E752699"
+    }
+  ],
+  "name": "icon/device/signal_wifi_statusbar_not_connected_26x24px",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A8654F8B-E902-4D11-BF21-55DC7E752699_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "807E7C0F-70DA-43D3-910A-60E8FF41B305",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A7B815D7-1FF8-4898-A586-9146A0A51F9A",
+  "userInfo": {
+    "com.amoreaux.sketch-icons": {
+      "color": "E5F72CF9-765C-453C-BB5F-4971859D9CB9",
+      "padding": 0
+    },
+    "com.google.ux.material.spec_tools": {
+      "iconStyle": "FILLED",
+      "symbolName": "icon/device/signal_wifi_statusbar_not_connected_26x24px",
+      "type": "icon"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "012D830E-D3BF-41E2-AE47-92F5E2D6DB09",
+    "guides": [
+    ]
+  }
+}

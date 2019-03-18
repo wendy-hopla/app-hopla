@@ -1,0 +1,100 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D13DBA67-F294-485D-B67E-6913E91F7E9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B59C432-99CE-460F-96DB-FB0CDBE00609",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C6AB1DB-E813-498C-BD95-9DEC3AB0AA87",
+    "height": 22.2,
+    "width": 18,
+    "x": 3,
+    "y": 0.7999999999999989
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BAC16D45-4D86-46EF-AE74-84058843EF53"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9BFCFC05-99EF-4B5E-8D40-A40856C99A99"
+    },
+    {
+      "class": "shapePath",
+      "id": "53B67047-BC42-4672-96FB-9C1F2774C86B"
+    },
+    {
+      "class": "shapePath",
+      "id": "9CBAFE41-3D00-42EF-802F-9C24413EDD8C"
+    },
+    {
+      "class": "shapePath",
+      "id": "B3928DA6-E43A-4E40-B110-567F69EBD026"
+    },
+    {
+      "class": "shapePath",
+      "id": "F68611E1-C644-4381-9D8A-25C496EC1C5E"
+    },
+    {
+      "class": "shapePath",
+      "id": "2279907D-24DA-42ED-A9DE-942F407E0334"
+    },
+    {
+      "class": "shapePath",
+      "id": "9F9D76F2-58C6-4F73-B4EF-B323D83C1174"
+    }
+  ],
+  "name": "icon/maps/local_car_wash_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE5FE73D-6208-4769-A78A-D5873A9F4237",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

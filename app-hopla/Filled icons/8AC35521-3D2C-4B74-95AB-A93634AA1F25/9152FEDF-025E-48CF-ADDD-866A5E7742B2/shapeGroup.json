@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9152FEDF-025E-48CF-ADDD-866A5E7742B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77F22574-69D2-4CBE-B324-3C41CC964731",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F377844-A6CC-4D0E-8A53-824BD1A14222",
+    "height": 10,
+    "width": 18,
+    "x": 3,
+    "y": 7
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "63F054A0-C29E-4BD6-BEA7-12FDBA16BAF0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C5883871-57D8-4C2B-972E-61A8BCE3AC26"
+    },
+    {
+      "class": "shapePath",
+      "id": "1ACE55E8-D144-4374-A01A-C74ACF558AAC"
+    },
+    {
+      "class": "shapePath",
+      "id": "94E96A34-2AF2-4CFD-9646-D1B37D0FEE75"
+    }
+  ],
+  "name": "icon/communication/clear_all_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "03C17DF0-65A3-4A15-9E9F-407F3BE69289",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

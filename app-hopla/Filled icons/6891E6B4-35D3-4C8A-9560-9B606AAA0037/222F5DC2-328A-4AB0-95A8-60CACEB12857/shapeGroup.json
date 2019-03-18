@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "222F5DC2-328A-4AB0-95A8-60CACEB12857",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A10BA01B-15E4-48A0-A87C-0FD25FC4CF6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E15B83F-E673-41C1-B450-799F939788D8",
+    "height": 18.15665668973946,
+    "width": 19.12092339300704,
+    "x": 2.74,
+    "y": 3.133343310260537
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B5816B46-2693-4D2B-946B-04C40193F1B4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "450814C4-8E2D-45F0-9C88-DE048520B823"
+    },
+    {
+      "class": "shapePath",
+      "id": "45DD3333-3E70-415F-88A8-1B04D29C6279"
+    }
+  ],
+  "name": "icon/maps/restaurant_menu_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "30259522-3FCC-4371-B30C-9EF58E7367C7",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}
