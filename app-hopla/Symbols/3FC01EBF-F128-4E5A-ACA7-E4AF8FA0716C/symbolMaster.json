@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 11555,
+  "changeIdentifier": 11560,
   "clippingMaskMode": 0,
   "do_objectID": "3FC01EBF-F128-4E5A-ACA7-E4AF8FA0716C",
   "exportOptions": {
@@ -99,8 +99,8 @@
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "01613AFD-68DC-4586-BE8E-A34A28BF96D9_layerStyle"
+      "canOverride": false,
+      "overrideName": "245BC4F9-4A05-474F-B8D9-94C7129CE3B5_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -109,8 +109,8 @@
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "245BC4F9-4A05-474F-B8D9-94C7129CE3B5_symbolID"
+      "canOverride": true,
+      "overrideName": "01613AFD-68DC-4586-BE8E-A34A28BF96D9_layerStyle"
     }
   ],
   "resizesContent": true,
@@ -130,10 +130,10 @@
   "userInfo": {
     "com.google.ux.material.spec_tools": {
       "cornerSizesDp": [
-        16,
-        16,
-        16,
-        16
+        8,
+        8,
+        8,
+        8
       ]
     }
   },
