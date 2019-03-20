@@ -43,7 +43,7 @@
     "do_objectID": "AFFF4F7A-E619-4FB2-BAAE-52D10CBC63C6"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -90,12 +90,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "750F97FA-C3C0-4B2C-9421-9351A60B5837_textStyle"
+      "overrideName": "750F97FA-C3C0-4B2C-9421-9351A60B5837_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "750F97FA-C3C0-4B2C-9421-9351A60B5837_stringValue"
+      "overrideName": "750F97FA-C3C0-4B2C-9421-9351A60B5837_textStyle"
     }
   ],
   "resizesContent": true,

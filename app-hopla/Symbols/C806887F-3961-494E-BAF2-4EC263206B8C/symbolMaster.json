@@ -90,13 +90,13 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "09B591B1-9C07-47C0-AEDD-CDC490B8398F_symbolID"
+      "canOverride": true,
+      "overrideName": "EF115F8E-AA0D-4AF7-88AA-8253D8E905AD_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "EF115F8E-AA0D-4AF7-88AA-8253D8E905AD_symbolID"
+      "canOverride": false,
+      "overrideName": "09B591B1-9C07-47C0-AEDD-CDC490B8398F_symbolID"
     }
   ],
   "resizesContent": true,

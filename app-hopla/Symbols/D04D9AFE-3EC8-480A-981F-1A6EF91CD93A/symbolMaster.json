@@ -102,8 +102,8 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "37B980AB-84D4-41B2-B4CC-4BDA1EEAF4E7_layerStyle"
+      "canOverride": false,
+      "overrideName": "9B0F98C2-60B2-4DD5-8309-FA771D4CDAEA_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -127,8 +127,8 @@
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "9B0F98C2-60B2-4DD5-8309-FA771D4CDAEA_symbolID"
+      "canOverride": true,
+      "overrideName": "37B980AB-84D4-41B2-B4CC-4BDA1EEAF4E7_layerStyle"
     }
   ],
   "resizesContent": true,

@@ -59,7 +59,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -116,8 +116,8 @@
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "2FC55C30-1472-4507-A4EA-566954AB5659_layerStyle"
+      "canOverride": false,
+      "overrideName": "480A064E-616B-4DE1-BF20-8794683F8B28_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -141,8 +141,8 @@
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "480A064E-616B-4DE1-BF20-8794683F8B28_symbolID"
+      "canOverride": true,
+      "overrideName": "2FC55C30-1472-4507-A4EA-566954AB5659_layerStyle"
     }
   ],
   "resizesContent": true,
